@@ -13,9 +13,3 @@ module.exports = {
   ftoc,
   ctof
 };
-
-
-console.log(ftoc(32));
-console.log(ftoc(100));
-console.log(ctof(0));
-console.log(ctof(73.2));
